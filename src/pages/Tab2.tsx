@@ -16,6 +16,7 @@ const Tab2: React.FC = () => {
             <IonTitle size="large">Tab 2</IonTitle>
           </IonToolbar>
         </IonHeader>
+        <div className="voomly-embed" data-id="XNrAu9WR1wPN27BDgAw8ACtk7vEI_FI9KVouXGNZfMkKk0BYD" data-ratio="1.777778" data-type="v"></div>
         <ExploreContainer name="Tab 2 page" />
       </IonContent>
     </IonPage>
